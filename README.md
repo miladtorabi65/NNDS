@@ -2,7 +2,7 @@
 This repository contains three assignments from the Neural Networks for Data Science Applications course, focusing on character-level language modeling using JAX. The project demonstrates the entire pipeline—ranging from RNN training to various text generation strategies.
 
 Project Overview
-Assignment 1: RNN Training
+Assignment 1: RNN Training \n
 
 Implements a recurrent neural network (RNN) in pure JAX.
 Trains the model on a text dataset (e.g., Penn Treebank) in a next-character prediction setting.
