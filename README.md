@@ -17,7 +17,11 @@ Implements a fully JAX-based beam search decoder.
 Uses lax.scan to avoid explicit Python loops and maintains a fixed-size buffer for partial sequences.
 Compares the resulting text with greedy decoding to show how beam search can produce more coherent (though sometimes repetitive) outputs.
 
-Repository Structure
+## 📚 **Project Structure**
+📂 Project Root   
+├── [📄 README.md (This File)](README.md)    
+├── [📊 AGE_REGRESSION.csv (Dataset)](AGE_PREDICTION.csv)    
+└── [📒 run_MLP.ipynb (Jupyter Notebook for Training and Running the Model)](run_MLP.ipynb)  
 - `data/`: (Optional) Folder for storing the training dataset (Penn Treebank, etc.).
 - `notebooks/` or root:
 - `assignment1_rnn_training.ipynb`: The RNN model creation and training loop.
