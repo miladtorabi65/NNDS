@@ -21,4 +21,4 @@ Compares the resulting text with greedy decoding to show how beam search can pro
 📂 Project Root   
 ├── [📄 README.md (This File)](README.md)    
 ├── [📊 Data/ptb.train.txt](https://github.com/miladtorabi65/NNDS/tree/4e8caff39fd34b8725d37a89c026eb54afb80254/Data)    
-└── [📒 run_MLP.ipynb (Jupyter Notebook for Training and Running the Model)](run_MLP.ipynb)  
+└── [📒 character-level RRN and Beam search implementation](https://github.com/miladtorabi65/NNDS/blob/b2d049eceb03175068895ad8a023d36059778619/NNDS_Final_Homework_MiladTorabi.ipynb)  
