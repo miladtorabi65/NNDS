@@ -20,5 +20,5 @@ Compares the resulting text with greedy decoding to show how beam search can pro
 ## 📚 **Project Structure**
 📂 Project Root   
 ├── [📄 README.md (This File)](README.md)    
-├── [📊 AGE_REGRESSION.csv (Dataset)](AGE_PREDICTION.csv)    
+├── [📊 Data/ptb.train.txt](ptb.train.txt)    
 └── [📒 run_MLP.ipynb (Jupyter Notebook for Training and Running the Model)](run_MLP.ipynb)  
