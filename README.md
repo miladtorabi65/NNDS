@@ -22,8 +22,3 @@ Compares the resulting text with greedy decoding to show how beam search can pro
 ├── [📄 README.md (This File)](README.md)    
 ├── [📊 AGE_REGRESSION.csv (Dataset)](AGE_PREDICTION.csv)    
 └── [📒 run_MLP.ipynb (Jupyter Notebook for Training and Running the Model)](run_MLP.ipynb)  
-- `assignment1_rnn_training.ipynb`: The RNN model creation and training loop.
-- `assignment2_text_generation.py`: Sampling-based text generator.
-- `assignment3_beam_search.py`: Beam search code plus comparisons to greedy decoding.
-- `utils/`: (Optional) Utility scripts for data loading or pre-processing.
-- `README.md`: This file.
